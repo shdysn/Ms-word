@@ -1,0 +1,6 @@
+{
+  "name": "DocuWord",
+  "description": "Complete Microsoft Word style document editor with rich formatting, Ribbon toolbar, tables, page layouts, export, templates, and word processing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
